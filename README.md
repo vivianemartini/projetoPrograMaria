@@ -13,8 +13,13 @@ Escolha um desses desafios e atualize a sua página web!
 
 Desafio: Criar um efeito de estilização a sua escolha para quando a visitante do seu site passar o mouse em cima do link no menu das divas da tecnologia ou quando esses elementos receberem foco.
 
+## Live
+
 link: https://sideada.martiniviviane.repl.co/
 
 ## Preview
 
 <img width="400px" height="900px" src="assets/previewAda.png" alt="Page preview">
+
+## License 
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/vivianemartini/projetoPrograMaria/blob/main/LICENSE) file for details
